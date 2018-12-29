@@ -5,3 +5,5 @@ Data cleansing algorithm for FINRA's Trade Reporting and Compliance Engine (TRAC
 "Liquidity Biases in TRACE" (Dick-Nielsen 2009) 
 
 "How to clean Enhanced TRACE data" (Dick-Nielsen 2014)
+
+"Realized Volatility, Liquidity, and Corporate Yield Spreads" (Rossi 2014)
